@@ -1,0 +1,22 @@
+*{
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.caja-1{
+  position: relative;
+  width: 80%;
+  height: 600px;
+  background-color: white;
+  border: solid 1px;
+  margin: 2% auto;
+  padding: 0 3%;
+}
+.barra{
+  width: 10%;
+  height: 5px;
+  background-color: black;
+}
+.imgContainer{
+
+}
