@@ -1,12 +1,11 @@
 *{
+  box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
-
 }
 
 .caja-1{
   position: relative;
-  width: 80%;
-  height: 600px;
+  width: 90%;
   background-color: white;
   border: solid 1px;
   margin: 2% auto;
@@ -18,5 +17,22 @@
   background-color: black;
 }
 .imgContainer{
+}
+.coder{
+  width: 25%;
+  height: 25%;
+  display: inline-block;
+  margin: 4% 4%;
+  position: relative;
+}
+.img-coder{
+  width: 100%;
+}
+.span-coder{
+  position: absolute;
+  color: white;
+  bottom: 3%;
+  right: 2%;
+
 
 }
