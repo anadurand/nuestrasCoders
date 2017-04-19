@@ -27,6 +27,7 @@
 }
 .img-coder{
   width: 100%;
+  filter: brightness(80%);
   opacity: .7;
 }
 .img-coder:hover{
