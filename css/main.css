@@ -22,17 +22,21 @@
   width: 25%;
   height: 25%;
   display: inline-block;
-  margin: 4% 4%;
+  margin: 3% 7% 2% 0;
   position: relative;
 }
 .img-coder{
   width: 100%;
+  opacity: .7;
+}
+.img-coder:hover{
+  opacity: 1;
 }
 .span-coder{
   position: absolute;
   color: white;
   bottom: 3%;
   right: 2%;
-
+  text-shadow: 1px 1px #000;
 
 }
